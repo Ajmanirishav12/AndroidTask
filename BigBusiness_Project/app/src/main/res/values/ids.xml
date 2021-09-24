@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <item name="phonenumber" type="id"/>
+    <item name="name" type="id"/>
+    <item name="pincode" type="id"/>
+    <item name="state" type="id"/>
+    <item name="city" type="id" />
+    <item name="country" type="id"/>
+    <item name="register" type="id"/>
+</resources>

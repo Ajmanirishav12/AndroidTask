@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034954570698",
+    "firebase_url": "https://bigbusiness-project-default-rtdb.firebaseio.com",
+    "project_id": "bigbusiness-project",
+    "storage_bucket": "bigbusiness-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034954570698:android:453d20fc0b652a75ac2d33",
+        "android_client_info": {
+          "package_name": "com.example.bigbusiness_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034954570698-9d9l71kr4tcq10hos85kfem9cplphq8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigbusiness_project",
+            "certificate_hash": "20f2e6469abf5fdf6b5ede16715b83a79462dd87"
+          }
+        },
+        {
+          "client_id": "1034954570698-a6n1b8mu6h15m47gbasa97hb09e4f22j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8BIoaBxCAZaYWXR3BX9gcDjEzr1ZQ8pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034954570698-a6n1b8mu6h15m47gbasa97hb09e4f22j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BigBusiness_Project</string>
+    <string name="todo">TODO</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_91">+91</string>
+    <string name="registration_form">REGISTRATION FORM</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_phone_no">Enter your Phone no</string>
+    <string name="enter_your_pincode">Enter Your Pincode</string>
+    <string name="enter_your_state">Enter your State</string>
+    <string name="city">City</string>
+    <string name="enter_your_country">Enter your Country</string>
+    <string name="register">Register</string>
+</resources>
